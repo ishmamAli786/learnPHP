@@ -3,6 +3,7 @@ $a=["Ishmam","Ali","Khan",'55',"Mahota"];
 // echo in_array('Ali',$a);
 
 /// This array will return index of array
+/// in associated array case this will return key
 echo array_search('55',$a);
 
 
